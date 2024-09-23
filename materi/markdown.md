@@ -1,22 +1,3 @@
----
-title: Untitled
-
----
-
----
-jupytext:
-  formats: md:myst
-  text_representation:
-    extension: .md
-    format_name: myst
-    format_version: 0.13
-    jupytext_version: 1.11.5
-kernelspec:
-  display_name: Python 3
-  language: python
-  name: python3
----
-
 # HIMPUNAN
 
 Mengutip dari buku "Teori Himpunan" oleh Darwanto dkk, himpunan adalah kumpulan objek atau benda yang didefinisikan secara jelas, di mana setiap anggotanya dapat dibedakan dari yang bukan bagian himpunan tersebut.
@@ -63,7 +44,7 @@ Jika $𝐴 =\{1,2,3\},\text {maka} 𝐴 \cup \emptyset =\{1,2,3\}$
 
 ### 2. Himpunan $A \cap U = A$
 
-*$A \cap U = \{ x \mid x \in A \text{ dan } x \in U \}$*
+$A \cap U = \{ x \mid x \in A \text{ dan } x \in U \}$
 
 Karena $𝑈$ adalah ruang semesta yang mencakup semua elemen yang relevan, setiap elemen $𝑥$ dari $𝐴$ juga merupakan elemen dari $𝑈$,ini menyatakan bahwa irisan antara $𝐴$ dan $𝑈$ adalah himpunan $𝐴$ itu sendiri,karena $𝑈$ tidak mengubah himpunan $𝐴$
 
