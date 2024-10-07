@@ -1,2 +1,0 @@
-# Teori Himpunan
-
